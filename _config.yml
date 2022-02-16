@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 title: Prasówka
 description: Przegląd artykułów z kilku magazynów traktujących o programowaniu i IT
+show_excerpts: true
+permalink: /:collection/:year-:month-:day-:title:output_ext
